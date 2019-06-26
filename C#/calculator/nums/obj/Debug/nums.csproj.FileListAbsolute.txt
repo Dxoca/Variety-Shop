@@ -1,0 +1,30 @@
+C:\Users\Dxoca\Source\Repos\nums\nums\bin\Debug\nums.exe.config
+C:\Users\Dxoca\Source\Repos\nums\nums\bin\Debug\nums.exe
+C:\Users\Dxoca\Source\Repos\nums\nums\bin\Debug\nums.pdb
+C:\Users\Dxoca\Source\Repos\nums\nums\obj\Debug\nums.csprojAssemblyReference.cache
+C:\Users\Dxoca\Source\Repos\nums\nums\obj\Debug\nums.Form1.resources
+C:\Users\Dxoca\Source\Repos\nums\nums\obj\Debug\nums.Properties.Resources.resources
+C:\Users\Dxoca\Source\Repos\nums\nums\obj\Debug\nums.csproj.GenerateResource.cache
+C:\Users\Dxoca\Source\Repos\nums\nums\obj\Debug\nums.csproj.CoreCompileInputs.cache
+C:\Users\Dxoca\Source\Repos\nums\nums\obj\Debug\nums.exe
+C:\Users\Dxoca\Source\Repos\nums\nums\obj\Debug\nums.pdb
+E:\myCode\C#\王珍山 1806030630 C#上机作业前十次\第8次 && 计算器项目\nums\nums\bin\Debug\nums.exe.config
+E:\myCode\C#\王珍山 1806030630 C#上机作业前十次\第8次 && 计算器项目\nums\nums\bin\Debug\nums.exe
+E:\myCode\C#\王珍山 1806030630 C#上机作业前十次\第8次 && 计算器项目\nums\nums\bin\Debug\nums.pdb
+E:\myCode\C#\王珍山 1806030630 C#上机作业前十次\第8次 && 计算器项目\nums\nums\obj\Debug\nums.csprojAssemblyReference.cache
+E:\myCode\C#\王珍山 1806030630 C#上机作业前十次\第8次 && 计算器项目\nums\nums\obj\Debug\nums.Form1.resources
+E:\myCode\C#\王珍山 1806030630 C#上机作业前十次\第8次 && 计算器项目\nums\nums\obj\Debug\nums.Properties.Resources.resources
+E:\myCode\C#\王珍山 1806030630 C#上机作业前十次\第8次 && 计算器项目\nums\nums\obj\Debug\nums.csproj.GenerateResource.cache
+E:\myCode\C#\王珍山 1806030630 C#上机作业前十次\第8次 && 计算器项目\nums\nums\obj\Debug\nums.csproj.CoreCompileInputs.cache
+E:\myCode\C#\王珍山 1806030630 C#上机作业前十次\第8次 && 计算器项目\nums\nums\obj\Debug\nums.exe
+E:\myCode\C#\王珍山 1806030630 C#上机作业前十次\第8次 && 计算器项目\nums\nums\obj\Debug\nums.pdb
+E:\myCode\C#\附加 计算器项目\nums\nums\bin\Debug\nums.exe.config
+E:\myCode\C#\附加 计算器项目\nums\nums\bin\Debug\nums.exe
+E:\myCode\C#\附加 计算器项目\nums\nums\bin\Debug\nums.pdb
+E:\myCode\C#\附加 计算器项目\nums\nums\obj\Debug\nums.csprojAssemblyReference.cache
+E:\myCode\C#\附加 计算器项目\nums\nums\obj\Debug\nums.Form1.resources
+E:\myCode\C#\附加 计算器项目\nums\nums\obj\Debug\nums.Properties.Resources.resources
+E:\myCode\C#\附加 计算器项目\nums\nums\obj\Debug\nums.csproj.GenerateResource.cache
+E:\myCode\C#\附加 计算器项目\nums\nums\obj\Debug\nums.csproj.CoreCompileInputs.cache
+E:\myCode\C#\附加 计算器项目\nums\nums\obj\Debug\nums.exe
+E:\myCode\C#\附加 计算器项目\nums\nums\obj\Debug\nums.pdb
